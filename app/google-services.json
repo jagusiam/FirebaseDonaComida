@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91866675145",
+    "project_id": "donacomida-8de5d",
+    "storage_bucket": "donacomida-8de5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91866675145:android:c49becfd2531cf7e235a18",
+        "android_client_info": {
+          "package_name": "com.donacomida.firebasedonacomida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_isM1D1K4TeM3jO2vmqlk6rJzgvmMla8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

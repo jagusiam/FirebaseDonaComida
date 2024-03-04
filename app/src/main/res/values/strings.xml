@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseDonaComida</string>
+    <string name="default_web_client_id">91866675145-lfj5u3tv6cs9u9a41tca3c6fi8ln7mta.apps.googleusercontent.com</string>
+    <string name="prefs_file">com.donacomida.firebasedonacomida.PREFERENCE_FILE_KEY</string>
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+    <string name="facebook_client_token"></string>
+    <string name="msg_token_fmt"> </string>
+</resources>
